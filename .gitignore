@@ -1,29 +1,22 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Folder view configuration files
+.DS_Store
+Desktop.ini
 
-# Precompiled Headers
-*.gch
-*.pch
+# Thumbnail cache files
+._*
+Thumbs.db
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
 
-# Fortran module files
-*.mod
-*.smod
+# Compiled Python files
+*.pyc
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
+# Compiled C++ files
 *.out
-*.app
+
+# Application specific files
+venv
+node_modules
+.sass-cache
